@@ -1,0 +1,3 @@
+my:
+  env: ${MY_ENV:myenv_default}
+  secret: ${MY_SECRET:mysecret_default}
